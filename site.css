@@ -1,0 +1,49 @@
+a{
+	font-size: 11px;
+}
+header{
+background-color: lightblue;
+font-family: 'Amatic SC', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Shantell Sans', cursive;
+font-size: 40px;
+}
+#menu{
+	width: 20%;
+	background-color: blueviolet;
+	height: 800px;
+	float: left;
+}
+.h21{
+	font-family: 'Amatic SC', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Shantell Sans', cursive;
+font-size: 30px;
+}
+
+.img1
+ {
+		float: left;
+  		width: 20%;
+		border: 2px solid #55c5e9;
+		padding: 15px; 
+		background: #666; 
+		margin-right: 10px; 
+		margin-bottom: 10px; 
+    }
+
+.button{
+	color: green;
+}
